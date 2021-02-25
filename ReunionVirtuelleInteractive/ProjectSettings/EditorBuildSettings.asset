@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PriseDeNote.unity
+    guid: 7974eecaf524ba04b8065a79c3251fbd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d5b72da8d19ef814eadb2dc9e1f3ad44,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 93f424b5d8f8ee54a94aade703abad3c,
+      type: 2}
