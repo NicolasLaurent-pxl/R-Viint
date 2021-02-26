@@ -127,6 +127,10 @@ public class Keyboard : MonoBehaviour
     {
         Affichage.text = Affichage.text + "!";
     }
+    public void AddLetterInterog()
+    {
+        Affichage.text = Affichage.text + "?";
+    }
     public void AddLetterEspace()
     {
         Affichage.text = Affichage.text + " ";
